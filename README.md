@@ -1,2 +1,2 @@
-# Notes
+# Notes App
 MERN STACK 
